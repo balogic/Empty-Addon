@@ -1,0 +1,13 @@
+{
+  "title": "Sample Addon",
+  "name": "sample",
+  "version": "0.0.0",
+  "description": "Just a basic addon",
+  "main": "index.js",
+  "author": "Balaji",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
